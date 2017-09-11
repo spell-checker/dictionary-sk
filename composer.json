@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-sk",
+	"type": "library",
+	"description": "Slovak dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-sk",
+	"license": ["public-domain"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
